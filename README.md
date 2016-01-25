@@ -1,2 +1,0 @@
-# Expertus
-Expertus LT
